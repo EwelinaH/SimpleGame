@@ -1,2 +1,2 @@
 # SimpleGame
-SimpleGameinJava
+SimpleGameInJava
